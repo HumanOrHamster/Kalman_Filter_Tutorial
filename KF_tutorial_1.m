@@ -6,7 +6,7 @@ clear;clc;close all
 % This program is for educational purpose only. 
 
 % seed
-%%rng(100)
+rng(100)
 
 % a bug is found!
 
