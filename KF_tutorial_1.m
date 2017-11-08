@@ -8,6 +8,8 @@ clear;clc;close all
 % seed
 rng(100)
 
+% a bug is found!
+
 %% run time
 % duration of simulation (sec)
 duration = 400;
