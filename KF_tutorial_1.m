@@ -8,7 +8,7 @@ clear;clc;close all
 % made some edits here 
 
 % seed
-rng(100)
+%%rng(100)
 
 % a bug is found!
 
