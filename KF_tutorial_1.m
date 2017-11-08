@@ -5,6 +5,8 @@ clear;clc;close all
 % Copyright (C) 2017 Binh Bui
 % This program is for educational purpose only. 
 
+% made some edits here 
+
 % seed
 rng(100)
 
