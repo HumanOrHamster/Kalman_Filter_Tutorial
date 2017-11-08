@@ -9,8 +9,7 @@ clear;clc;close all
 
 
 rng(100)
-% ok i did some work here
-x = 100; 
+% made change here also
 
 
 %% run time
