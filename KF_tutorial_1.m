@@ -4,13 +4,8 @@ clear;clc;close all
 % v1 by Binh Bui, 5/16/2017
 % Copyright (C) 2017 Binh Bui
 % This program is for educational purpose only. 
-
-% made some edits here 
-
-
+x = 5;
 rng(100)
-% made change here also
-
 
 %% run time
 % duration of simulation (sec)
