@@ -5,11 +5,17 @@ clear;clc;close all
 % Copyright (C) 2017 Binh Bui
 % This program is for educational purpose only. 
 
-% seed
+% made some edits here 
+
+
 rng(100)
+
+% ok i did some work here
+x = 100; 
+=======
 % made change here also
 
-% a bug is found!
+
 
 %% run time
 % duration of simulation (sec)
