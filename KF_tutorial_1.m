@@ -7,10 +7,11 @@ clear;clc;close all
 
 % made some edits here 
 
-% seed
-rng(100)
 
-% a bug is found!
+rng(100)
+% ok i did some work here
+x = 100; 
+
 
 %% run time
 % duration of simulation (sec)
