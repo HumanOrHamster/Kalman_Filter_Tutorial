@@ -7,6 +7,7 @@ clear;clc;close all
 
 % seed
 rng(100)
+% made change here also
 
 % a bug is found!
 
