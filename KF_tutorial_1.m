@@ -4,7 +4,7 @@ clear;clc;close all
 % v1 by Binh Bui, 5/16/2017
 % Copyright (C) 2017 Binh Bui
 % This program is for educational purpose only. 
-x = 5;
+
 rng(100)
 
 %% run time
